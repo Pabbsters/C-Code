@@ -1,0 +1,14 @@
+D:\C# code\linq3\bin\Debug\net8.0\linq3.exe
+D:\C# code\linq3\bin\Debug\net8.0\linq3.deps.json
+D:\C# code\linq3\bin\Debug\net8.0\linq3.runtimeconfig.json
+D:\C# code\linq3\bin\Debug\net8.0\linq3.dll
+D:\C# code\linq3\bin\Debug\net8.0\linq3.pdb
+D:\C# code\linq3\obj\Debug\net8.0\linq3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# code\linq3\obj\Debug\net8.0\linq3.AssemblyInfoInputs.cache
+D:\C# code\linq3\obj\Debug\net8.0\linq3.AssemblyInfo.cs
+D:\C# code\linq3\obj\Debug\net8.0\linq3.csproj.CoreCompileInputs.cache
+D:\C# code\linq3\obj\Debug\net8.0\linq3.dll
+D:\C# code\linq3\obj\Debug\net8.0\refint\linq3.dll
+D:\C# code\linq3\obj\Debug\net8.0\linq3.pdb
+D:\C# code\linq3\obj\Debug\net8.0\linq3.genruntimeconfig.cache
+D:\C# code\linq3\obj\Debug\net8.0\ref\linq3.dll
